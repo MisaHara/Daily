@@ -1,0 +1,11 @@
+[33mcommit 72c649ea71ac7fe766d224d0fa21f89152cb64ac[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: Misa <rudy-2000w@mail.ru>
+Date:   Tue Feb 4 23:40:13 2025 +0600
+
+    Implemented DayEntry API with GET, POST, DELETE functionality, connected postgreSQL, tested queries
+
+[33mcommit 6c82082d3b46cda56358da4737fd1c8e4658bf7a[m
+Author: Misa <rudy-2000w@mail.ru>
+Date:   Mon Feb 3 23:21:24 2025 +0600
+
+    First
